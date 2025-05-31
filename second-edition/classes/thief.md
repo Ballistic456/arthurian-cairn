@@ -22,7 +22,7 @@ grand_parent: Second Edition
 - May hide 1 _petty_ object on your person which no lone mortal may find.
 ### Sixth Sense
 - May ask the DM "Is this room trapped?" and he will answer honestly.
-- _If the answer is "no",_ then this feature cannot be used for the rest of the session.
+- _If the answer is "no",_ then gain one fatigue and this feature cannot be used for the rest of the session.
 ### Lockpicking
 - Can spend one dungeon turn to pick locks, requiring a DEX check. Failures generate one fatigue.
 - Each attempt thereafter on the same lock takes one watch and another DEX check.
