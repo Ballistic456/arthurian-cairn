@@ -17,3 +17,9 @@ grand_parent: Second Edition
 - Weapon
 - Rations (3 uses)
 - Torch
+
+## Class Features
+### Second Wind
+- Once per session, roll a d20 and compare the number to your current STR.
+- _If it's larger_, this is now your current STR (without exceeding your maximum).
+- _If it's smaller_, gain one Fatigue.
