@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Backgrounds
+title: Classes
 parent: Second Edition
 has_children: true
 nav_order: 2
 ---
 
-# Backgrounds
+# Classes
