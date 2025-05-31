@@ -10,7 +10,7 @@ grand_parent: Second Edition
 
 > Raise the meek. 
 
-## Starting Mofidiers
+## Starting Modifiers
 - 
 
 ## Starting Gear
