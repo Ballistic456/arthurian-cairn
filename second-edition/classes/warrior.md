@@ -9,7 +9,7 @@ grand_parent: Second Edition
 
 > Weak men create hard times. Hard times create strong men. 
 
-## Starting Mofidiers
+## Starting Modifiers
 - You start with **1d4+2** Hit Protection
 
 ## Starting Gear
