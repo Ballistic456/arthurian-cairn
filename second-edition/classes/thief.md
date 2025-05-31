@@ -9,7 +9,7 @@ grand_parent: Second Edition
 
 > Enter places. Take things. 
 
-## Starting Mofidiers
+## Starting Modifiers
 - You have an extra inventroy slot.
 
 ## Starting Gear
