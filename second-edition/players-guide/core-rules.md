@@ -69,9 +69,12 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Rounds
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
+- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. If all goes well, each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
 - During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
 - Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+
+### Optional - Brutal Initiative
+- Combat is brutal and chaotic. Each round, the PCs are allowed ten seconds of real time per player to decide what they want do _and_ tell the DM. Anyone who fails to communicate this to the DM within the time limit loses their turn.
 
 ### Actions
 
@@ -80,7 +83,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 ### Attacking & Damage
 
 - The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
+- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. Remember: all combat actions are declared before being resolved.
 - If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
 
 ### Attack Modifiers
