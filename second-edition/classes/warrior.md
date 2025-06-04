@@ -26,11 +26,11 @@ grand_parent: Second Edition
 
 ## Progression
 You need a number of victories equal to your level in order to level-up. When this happens, roll on this table.
-
-|    2d6    |   Effect                                              |
-|:---------:|:-----------------------------------------------------:|
-|2          | Gain a Weapon Mastery                                 |
-|3-5        | +1 HP                                                 |
-|6-9        | Roll d20. If equal to or higher than STR, gain 1 STR. |
-|10-11      | +1 to damage rolls                                    |
-|12         | +1 STR, may exceed 18                                 |
+|             |                                                       |
+| :---------: | ----------------------------------------------------- |
+| **2d6**     | **Effect**                                            |
+|2            | Gain a **Weapon Mastery**                             |
+|3-5          | +1 HP                                                 |
+|6-8          | Roll d20. If equal to or higher than STR, gain 1 STR. |
+|9-11         | +1 to damage rolls                                    |
+|12           | +1 STR, may exceed 18                                 |
