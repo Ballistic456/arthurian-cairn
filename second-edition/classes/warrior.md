@@ -23,3 +23,11 @@ grand_parent: Second Edition
 - Once per session, roll a d20 and compare the number to your current STR.
 - _If it's larger_, this is now your current STR (without exceeding your maximum).
 - _If it's smaller_, gain one Fatigue.
+
+## Progression
+|2d6|Effect|
+|2| Gain a Weapon Mastery
+|3-5| +1 HP
+|6-9| Roll d20. If equal to or higher than STR, gain 1 STR.
+|10-11| +1 to damage rolls
+|12| +1 STR, may exceed 18
